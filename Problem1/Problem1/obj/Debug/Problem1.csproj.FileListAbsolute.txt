@@ -1,0 +1,21 @@
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\Problem1.csprojAssemblyReference.cache
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\MainWindow.g.cs
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\App.g.cs
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\Problem1_MarkupCompile.cache
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\Problem1_MarkupCompile.lref
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\bin\Debug\Problem1.exe
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\bin\Debug\Problem1.pdb
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\MainWindow.baml
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\Problem1.g.resources
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\Problem1.Properties.Resources.resources
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\Problem1.csproj.GenerateResource.cache
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\Problem1.exe
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\Problem1.pdb
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\AdjacencyMatrix.g.cs
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\AdjacencyMatrix.baml
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\IncWindow - Copy.g.cs
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\AdjListWindow.g.cs
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\IncWindow - Copy.baml
+C:\Users\StarkTheGnr\Documents\Uni\Algorithms\Algorithms_Research\Problem1\Problem1\obj\Debug\AdjListWindow.baml

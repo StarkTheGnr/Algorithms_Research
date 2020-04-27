@@ -1,0 +1,28 @@
+﻿<Window x:Class="Problem1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Problem1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="438.732">
+    <Grid x:Name="mainGrid">
+        <Label Content="Vertices:" HorizontalAlignment="Left" Margin="19,32,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="vertsSlider" HorizontalAlignment="Left" Margin="29,63,0,0" VerticalAlignment="Top" Width="139" ValueChanged="Slider_ValueChanged" SmallChange="1" Value="3" TickPlacement="BottomRight" Minimum="3"/>
+        <Ellipse x:Name="v1" Fill="White" HorizontalAlignment="Left" Height="24" Margin="10,164,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown"/>
+        <Ellipse x:Name="v3" Fill="White" HorizontalAlignment="Left" Height="24" Margin="191,97,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown"/>
+        <Ellipse x:Name="v8" Fill="White" HorizontalAlignment="Left" Height="24" Margin="61,319,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" Visibility="Hidden"/>
+        <Ellipse x:Name="v5" Fill="White" HorizontalAlignment="Left" Height="24" Margin="274,252,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" Visibility="Hidden"/>
+        <Ellipse x:Name="v9" Fill="White" HorizontalAlignment="Left" Height="24" Margin="19,252,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" Visibility="Hidden"/>
+        <Ellipse x:Name="v2" Fill="White" HorizontalAlignment="Left" Height="24" Margin="61,110,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown"/>
+        <Ellipse x:Name="v10" Fill="White" HorizontalAlignment="Left" Height="24" Margin="129,216,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" RenderTransformOrigin="1.322,-0.184" Visibility="Hidden"/>
+        <Ellipse x:Name="v6" Fill="White" HorizontalAlignment="Left" Height="24" Margin="191,369,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" RenderTransformOrigin="1.463,1.973" Visibility="Hidden"/>
+        <Ellipse x:Name="v7" Fill="White" HorizontalAlignment="Left" Height="24" Margin="144,319,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" RenderTransformOrigin="-1.712,1.181" Visibility="Hidden"/>
+        <Ellipse x:Name="v4" Fill="White" HorizontalAlignment="Left" Height="24" Margin="266,122,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" Visibility="Hidden"/>
+        <Button Content="Adjacency Matrix" HorizontalAlignment="Left" Margin="316,10,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click"/>
+        <Label x:Name="lblVertexCount" Content="3" HorizontalAlignment="Left" Margin="172,57,0,0" VerticalAlignment="Top"/>
+        <Button Content="Incidence Matrix" HorizontalAlignment="Left" Margin="316,35,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click_1"/>
+        <Button Content="Adjacency List" HorizontalAlignment="Left" Margin="316,60,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
