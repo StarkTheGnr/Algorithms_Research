@@ -19,7 +19,7 @@
         <Ellipse x:Name="v6" Fill="White" HorizontalAlignment="Left" Height="24" Margin="191,369,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" RenderTransformOrigin="1.463,1.973" Visibility="Hidden"/>
         <Ellipse x:Name="v7" Fill="White" HorizontalAlignment="Left" Height="24" Margin="144,319,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" RenderTransformOrigin="-1.712,1.181" Visibility="Hidden"/>
         <Ellipse x:Name="v4" Fill="White" HorizontalAlignment="Left" Height="24" Margin="266,122,0,0" Stroke="Black" VerticalAlignment="Top" Width="24" MouseEnter="v1_MouseEnter" MouseLeave="v1_MouseLeave" MouseLeftButtonDown="v1_MouseLeftButtonDown" Visibility="Hidden"/>
-        <Button Content="Adjacency Matrix" HorizontalAlignment="Left" Margin="316,10,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click"/>
+        <Button Content="Color Graph" HorizontalAlignment="Left" Margin="316,10,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click"/>
         <Label x:Name="lblVertexCount" Content="3" HorizontalAlignment="Left" Margin="172,57,0,0" VerticalAlignment="Top"/>
 
     </Grid>
